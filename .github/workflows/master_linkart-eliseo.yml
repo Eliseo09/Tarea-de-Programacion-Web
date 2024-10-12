@@ -59,4 +59,4 @@ jobs:
           app-name: 'LinkArt-Eliseo'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F21EB19964E844C3AF267AE3624ACDEE }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_2DC17B30A89C43F8B8520DC3CEF9A031 }}
